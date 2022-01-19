@@ -1,0 +1,15 @@
+{
+  "name": "bsw-market",
+  "version": "1.0.0",
+  "author": "Hugo Cardoso",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^14.2.0"
+  },
+  "type": "module",
+  "main": "index.js"
+}
